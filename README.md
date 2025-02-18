@@ -1,6 +1,6 @@
--👋🏻 Hi, I am Simran Upadhyay
+-👋🏻 Hi, I am Simran Upadhyay.
 
--🏫 I am currently pursuing bachelor of computer applications(BCA) from Uttaranchal University 
+-🏫 I am currently pursuing bachelor of computer applications(BCA) from Uttaranchal University.
 
 
 <!---
