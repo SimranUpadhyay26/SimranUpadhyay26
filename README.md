@@ -1,6 +1,6 @@
-- Hi, I’m @SimranUpadhyay26
--  I’m currently pursuing bachelor of computer applications(BCA) from Uttaranchal University 
--  I’m currently learning Java programming language 
+-👋🏻 Hi, I am Simran Upadhyay
+- 🏫 I am currently pursuing bachelor of computer applications(BCA) from Uttaranchal University 
+
 
 <!---
 SimranUpadhyay26/SimranUpadhyay26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
